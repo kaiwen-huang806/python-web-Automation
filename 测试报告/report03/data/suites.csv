@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","29110","test_register_cases[Register-001]","","Wed Sep 03 12:14:24 CST 2025","passed","Wed Sep 03 12:14:53 CST 2025","","readexcel03","",""
+"","23932","test_register_cases[Register-004]","","Wed Sep 03 12:15:44 CST 2025","passed","Wed Sep 03 12:16:08 CST 2025","","readexcel03","",""
+"","23887","test_register_cases[Register-003]","","Wed Sep 03 12:15:20 CST 2025","passed","Wed Sep 03 12:15:44 CST 2025","","readexcel03","",""
+"","26900","test_register_cases[Register-002]","","Wed Sep 03 12:14:53 CST 2025","passed","Wed Sep 03 12:15:20 CST 2025","","readexcel03","",""

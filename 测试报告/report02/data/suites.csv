@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"核心判定标准：登录后URI必须完全等于 http://120.24.56.229:8082","27901","登录验证_Login-004","","Wed Sep 03 12:13:11 CST 2025","passed","Wed Sep 03 12:13:39 CST 2025","","readexcel02","",""
+"核心判定标准：登录后URI必须完全等于 http://120.24.56.229:8082","31926","登录验证_Login-001","","Wed Sep 03 12:11:44 CST 2025","passed","Wed Sep 03 12:12:16 CST 2025","","readexcel02","",""
+"核心判定标准：登录后URI必须完全等于 http://120.24.56.229:8082","27517","登录验证_Login-002","","Wed Sep 03 12:12:16 CST 2025","passed","Wed Sep 03 12:12:43 CST 2025","","readexcel02","",""
+"核心判定标准：登录后URI必须完全等于 http://120.24.56.229:8082","27601","登录验证_Login-003","","Wed Sep 03 12:12:43 CST 2025","passed","Wed Sep 03 12:13:11 CST 2025","","readexcel02","",""
